@@ -1,0 +1,11 @@
+id = "hexa"
+name = "Hexa"
+description = "Hexa Programming Language"
+version = "0.0.1"
+schema_version = 1
+authors = ["PeyTy"]
+repository = "https://github.com/hexalang/hexa-zed-bundle"
+
+[grammars.hexa]
+repository = "https://github.com/hexalang/hexa-zed-bundle"
+commit = "ab393ba139b40d134a445c5d15285e09b62263c5"
