@@ -21,3 +21,7 @@
 - Click "Install Dev Extension" and select repo folder
 - Wait for about 30 seconds for the extension to compile
 - Extension should appear in the list of installed extensions
+
+## Build manually
+
+- Run `cargo build` inside the repo folder
