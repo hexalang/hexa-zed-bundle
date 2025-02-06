@@ -11,7 +11,13 @@
 ## Supported features
 
 - Nothing yet, just a draft
+- Planned: LSP & tree sitter
 
 ## Installation
 
-- Will be filled later
+- Install [rustup](https://www.rust-lang.org/tools/install)
+- `git clone https://github.com/hexalang/hexa-zed-bundle.git`
+- Open Extensions with `Ctrl + Shift + X`
+- Click "Install Dev Extension" and select repo folder
+- Wait for about 30 seconds for the extension to compile
+- Extension should appear in the list of installed extensions
