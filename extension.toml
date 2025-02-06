@@ -6,6 +6,6 @@ schema_version = 1
 authors = ["PeyTy"]
 repository = "https://github.com/hexalang/hexa-zed-bundle"
 
-[grammars.hexa]
-repository = "https://github.com/hexalang/hexa-zed-bundle"
-commit = "ab393ba139b40d134a445c5d15285e09b62263c5"
+[grammars.actionscript]
+repository = "https://github.com/Rileran/tree-sitter-actionscript"
+commit = "24919034fc78fdf9bedaac6616b6a60af20ab9b5"
