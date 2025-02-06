@@ -3,7 +3,7 @@ name = "Hexa"
 description = "Hexa Programming Language"
 version = "0.0.1"
 schema_version = 1
-authors = ["PeyTy"]
+authors = ["PeyTy", "gavr123456789", "pngdrift"]
 repository = "https://github.com/hexalang/hexa-zed-bundle"
 
 [grammars.actionscript]
