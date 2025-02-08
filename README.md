@@ -10,7 +10,7 @@
 
 ## Supported features
 
-- Nothing yet, just a draft
+- Very shallow syntax highlight, just a draft
 - Planned: LSP & tree sitter
 
 ## Installation
@@ -24,4 +24,4 @@
 
 ## Build manually
 
-- Run `cargo build` inside the repo folder
+- Run `cargo build --target=wasm32-wasip1` inside the repo folder
