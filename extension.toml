@@ -8,4 +8,4 @@ repository = "https://github.com/hexalang/hexa-zed-bundle"
 
 [grammars.hexa]
 repository = "https://github.com/hexalang/tree-sitter-hexa"
-rev = "2b16a26111e4543106ae0bd374998d5b662e5ff4"
+rev = "1de757e66b90454ed73551eb37e1b0175ad3db9d"
