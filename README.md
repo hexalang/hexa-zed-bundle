@@ -10,8 +10,8 @@
 
 ## Supported features
 
-- Very shallow syntax highlight, just a draft
-- Planned: LSP & tree sitter
+- Syntax highlighting with tree-sitter
+- Language server connection
 
 ## Installation
 
