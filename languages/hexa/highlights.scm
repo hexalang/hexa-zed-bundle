@@ -6,6 +6,7 @@
   "--"
   "&"
   "&&"
+  "??"
   "|"
   "||"
   "!"
@@ -33,6 +34,7 @@
   ">>>"
   "<<"
   "::"
+  "=>"
 ] @operator
 
 
@@ -97,6 +99,7 @@
 
 [
   "class"
+  "enum"
   "default"
   "extends"
   "implements"
@@ -108,16 +111,18 @@
   "with"
   "override"
   "final"
-  "internal"
+  "declare"
   "private"
   "protected"
   "public"
   "static"
   "get"
   "set"
-  "delete"
+  "not"
+  "and"
+  "or"
   "fun"
-  "const"
+  "let"
   "var"
   "return"
   "if"
