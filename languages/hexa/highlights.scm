@@ -37,7 +37,7 @@
 
 
 (function_declaration
-  name: (identifier) @function)
+  name: (identifier) @fun)
 
 (interface_declaration
   name: (identifier) @type)
@@ -58,7 +58,7 @@
   object: (identifier) @type)
 
 (call_expression
-  function: (identifier) @type)
+  fun: (identifier) @type)
 
 (new_expression
   (identifier) @type)
@@ -116,7 +116,7 @@
   "get"
   "set"
   "delete"
-  "function"
+  "fun"
   "const"
   "var"
   "return"
