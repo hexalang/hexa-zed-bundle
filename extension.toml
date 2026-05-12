@@ -1,10 +1,14 @@
 id = "hexa"
 name = "Hexa"
 description = "Hexa Programming Language"
-version = "0.0.1"
+version = "1.0.1"
 schema_version = 1
 authors = ["PeyTy", "gavr123456789", "pngdrift"]
 repository = "https://github.com/hexalang/hexa-zed-bundle"
+
+[language_servers.hexa-language-server]
+name = "Hexa Language Server"
+languages = ["Hexa"]
 
 [grammars.hexa]
 repository = "https://github.com/hexalang/tree-sitter-hexa"
